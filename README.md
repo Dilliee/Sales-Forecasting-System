@@ -15,7 +15,7 @@ Setup and Installation
 Clone the Repository:
 
 bash
-git clone https://github.com/yourusername/sales-forecasting-system.git
+git clone https://github.com/Dilliee/sales-forecasting-system.git
 cd sales-forecasting-system
 Install Dependencies:
 
